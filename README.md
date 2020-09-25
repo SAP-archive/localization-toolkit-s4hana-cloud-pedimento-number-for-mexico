@@ -1,5 +1,5 @@
 ## Localization Toolkit for SAP S/4HANA Cloud: Provide the Pedimento Number (Mexico) on e-Document using Custom Logic
-This repository contains the sample code for the [Provide the Pedimento Number (Mexico) on e-Document using Custom Logic](https://blogs.sap.com/2020/09/07/provide-the-pedi…ing-custom-logic/) blog post.
+This repository contains the sample code for the [Provide the Pedimento Number (Mexico) on e-Document using Custom Logic](https://blogs.sap.com/2020/09/15/provide-the-pedimento-number-mexico-on-e-document-using-custom-logic/) blog post.
 
 *This code is only a part of the blog post, so please follow the blog post before attempting to use this code since it may also require other extensibility activities.*
 
